@@ -1,0 +1,4 @@
+name = "jMRIO"
+uuid = "b6ff4f63-2f98-4ed2-9e43-eaa4212e8f77"
+authors = ["MRIGosu <111631066+MRIGosu@users.noreply.github.com>"]
+version = "0.1.0"
